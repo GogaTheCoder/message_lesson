@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Messenger_lesson</string>
+    <string name="send_your_message">Send your message</string>
+    <string name="text">text</string>
+    <string name="your_message">Your message:</string>
+
+</resources>
